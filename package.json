@@ -2,7 +2,7 @@
   "name": "electron-test",
   "version": "0.0.1",
   "description": "Test how one may build an app using electorn",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
