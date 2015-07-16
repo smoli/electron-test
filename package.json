@@ -15,5 +15,8 @@
     "js"
   ],
   "author": "Stephan Smola",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "electron-prebuilt": "^0.30.0"
+  }
 }
